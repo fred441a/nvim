@@ -1,3 +1,4 @@
+-- hello
 vim.cmd([[
 set number
 set splitright
